@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ConectaSUSApp.Mobile.Pages.Login"
+             Title="Login">
+
+    <StackLayout VerticalOptions="CenterAndExpand"
+                 Margin="16"
+                 Padding="16">
+
+        <Frame CornerRadius="50" WidthRequest="100" BackgroundColor="LightSalmon" Margin="10" >
+            <Image Source="iconlogin.png" />
+        </Frame>
+        <Label Text="E-mail"/>
+        <Entry Placeholder="Insira seu e-mail"/>
+        <Label Text="Senha"/>
+        <Entry Placeholder="Insira sua senha"
+               IsPassword="True"/>
+
+        <Button Text="Logar" Margin="5" x:Name="btnLogar" Clicked="btnLogar_Clicked" BackgroundColor="Violet"/>
+        <Button Text="Cadastrar" Margin="5"/>
+
+    </StackLayout>
+
+</ContentPage>

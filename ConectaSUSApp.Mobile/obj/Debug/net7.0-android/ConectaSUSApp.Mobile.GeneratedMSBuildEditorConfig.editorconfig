@@ -32,6 +32,30 @@ build_metadata.AdditionalFiles.ManifestResourceName = ConectaSUSApp.Mobile.MainP
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
+[C:/Users/manoe/source/repos/ConectaSUSApp/ConectaSUSApp.Mobile/Pages/FlyoutPageDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ConectaSUSApp.Mobile.Pages.FlyoutPageDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\FlyoutPageDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\FlyoutPageDemo.xaml
+
+[C:/Users/manoe/source/repos/ConectaSUSApp/ConectaSUSApp.Mobile/Pages/Home.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ConectaSUSApp.Mobile.Pages.Home.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Home.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Home.xaml
+
+[C:/Users/manoe/source/repos/ConectaSUSApp/ConectaSUSApp.Mobile/Pages/Login.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ConectaSUSApp.Mobile.Pages.Login.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Login.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Login.xaml
+
+[C:/Users/manoe/source/repos/ConectaSUSApp/ConectaSUSApp.Mobile/Pages/TabbetPageDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ConectaSUSApp.Mobile.Pages.TabbetPageDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\TabbetPageDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\TabbetPageDemo.xaml
+
 [C:/Users/manoe/source/repos/ConectaSUSApp/ConectaSUSApp.Mobile/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ConectaSUSApp.Mobile.Resources.Styles.Colors.xaml

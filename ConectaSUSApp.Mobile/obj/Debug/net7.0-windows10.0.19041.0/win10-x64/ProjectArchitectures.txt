@@ -1,0 +1,1 @@
+C:\Users\manoe\source\repos\ConectaSUSApp\ConectaSUSApp.Mobile\ConectaSUSApp.Mobile.csproj;x64

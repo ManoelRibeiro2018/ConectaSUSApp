@@ -1,4 +1,6 @@
-﻿namespace ConectaSUSApp.Mobile
+﻿using ConectaSUSApp.Mobile.Pages;
+
+namespace ConectaSUSApp.Mobile
 {
     public partial class App : Application
     {
@@ -6,7 +8,7 @@
         {
             InitializeComponent();
 
-            MainPage = new AppShell();
+            MainPage = new Login();
         }
     }
 }

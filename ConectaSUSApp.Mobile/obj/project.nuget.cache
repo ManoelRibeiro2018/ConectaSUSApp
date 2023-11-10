@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "oTu1uT5DFKThbSdJ+P5JSSeRVPiwNiygt6H+Ic5iDzmwOH7KhOD3ATsN6GKjY2MPEJN4s5Gz5q9mHgFoXnz3ww==",
+  "dgSpecHash": "xseXOlDToKVvN7tbOPRX53m82zdl3eiEprSEX6MKh4EW63XHoQI52Ib0Pxn/4aqWDIklms3sU0RT7BqLaSegEw==",
   "success": true,
   "projectFilePath": "C:\\Users\\manoe\\source\\repos\\ConectaSUSApp\\ConectaSUSApp.Mobile\\ConectaSUSApp.Mobile.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\manoe\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.2\\communitytoolkit.mvvm.8.2.2.nupkg.sha512",
     "C:\\Users\\manoe\\.nuget\\packages\\googlegson\\2.9.1.1\\googlegson.2.9.1.1.nupkg.sha512",
     "C:\\Users\\manoe\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\manoe\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
